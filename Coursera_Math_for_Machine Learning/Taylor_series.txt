@@ -1,0 +1,9 @@
+Taylor Series
+****************************************************
+//Building approximation function
+    - 
+
+//Power Series
+
+//Power Series Derivation
+    - 

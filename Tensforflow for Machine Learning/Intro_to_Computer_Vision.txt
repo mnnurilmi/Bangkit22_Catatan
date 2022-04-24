@@ -1,0 +1,42 @@
+*******************************************************
+//An introduction to compter vision
+    - Computer viison is the field of having computer understand and 
+        label what is present in an image
+        - https://github.com/zalandoresearch/fashion-mnist
+
+//Writing code to load training data
+    -  
+//Coding a computer vision neural network
+
+//Using Callbacks to Control training
+    -
+//What are convolutions and pooling
+    - Classifying MNIST dataset with the simple DNN can gain high accuracy on training and low accuracy on test set
+    - CNN will give us a context on the image instead of match the pixel value
+    - pooling is a way to compresing the image
+    
+https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF
+
+//Implementing Pooling layer
+    - 
+
+//Overfitting
+https://www.kaggle.com/code/ryanholbrook/exercise-overfitting-and-underfitting/notebook
+
+//A conversation with Andrew Ng
+    - 
+
+//Understanding Image Data Generator
+    - 
+
+//Defining a ConvNet to use complex images
+    - https://www.youtube.com/watch?v=zLRB4oupj6g
+
+//Walking through developing a ConvNet  
+    - 
+
+//Training with Image Data Generator
+    https://colab.research.google.com/github/https-deeplearning-ai/tensorflow-1-public/blob/master/C1/W4/ungraded_labs/C1_W4_Lab_1_image_generator_no_validation.ipynb
+
+//Image Data Generator with a Validation set    
+    https://colab.research.google.com/github/https-deeplearning-ai/tensorflow-1-public/blob/master/C1/W4/ungraded_labs/C1_W4_Lab_2_image_generator_with_validation.ipynb

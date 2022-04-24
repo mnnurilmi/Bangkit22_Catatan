@@ -1,0 +1,68 @@
+Linear Algebra
+by David dye/Imperial College London
+*****************************************************
+//Solving Data Science Chalenges with Math
+
+//Motivation for Linear Algebra
+    - vector and calculus can helps us to find optimization of something
+
+//Operation with Vectors
+
+//Vectors
+
+//Modulus and Inner Product
+    - commutative
+        r.s = s.r
+    - distributive
+        r.(s+t) = r.s + r.t
+    - assosiative
+        r.(a.s) = a.(r.s)
+
+//Cosine and Dot Product
+    -  cosine rule
+        c^2 = a^2+b^2 - 2abcos(teta)
+        r.s = |r|.|s|.cos(teta)
+
+//projection
+    - scalar projections
+         adj = r.s/|r|
+    - vector projection
+        adj = (r.s/(|r|^2)).r
+
+// Changng Basis
+    - cos(teta) = b1.b2/(|b1|.|b2|)
+    v,b1,b2
+    vb = [v1.b1/(|b1|^2).b1
+            v1.b2/(|b2|^2).b2]
+
+//Basis, vector space, and linear independence
+
+//Application of changing Basis
+
+//Matrices, vectors, and solving simultanous equation problems
+
+//How matrices transform space
+
+//Types of matrix tranformation
+    - rotation
+    -  
+
+//Composition or combination of matrix transformations
+    - 
+
+//Solving the apples and bananas problem: Gaussian elimination
+
+//Going from Gaussian elimination to finding the inverse matrix
+
+//Determinants and Inverses
+
+//Einstein summation convention and the symmetry of the dot Product
+
+//Matrices changing Basis
+
+//Doing a transformation in a changed basis
+
+//Orthogonal Metrices
+    - 
+//The gram-schmidt process
+    - 

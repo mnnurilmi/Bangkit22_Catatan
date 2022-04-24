@@ -1,0 +1,23 @@
+Advance Regex
+******************************************************
+//Capturing Groups
+    -r"(^[\w]), ([\w]$)"
+
+//Repetition Qualifies
+    -digunakan saat mencari suatu kata dengan limit 
+        jumlah huruf
+    -{}
+    -r"\w{3,7}"
+        artinya dicari kata dengan minimal 3 karakter dan 7 karakter maksimal
+    -kadang terpotong katanya sehingga dibutuhkan Keywords
+        r"\b[\w]{3,7}\b"
+
+//Extracting PID using regexes in python
+    -extracting process ID
+    -menghindari dari error
+
+//Splitting and replacing
+    -re.split
+
+https://regexcrossword.com/
+

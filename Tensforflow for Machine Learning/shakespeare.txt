@@ -1,0 +1,5 @@
+Generating new text
+*******************************************************
+https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C3/W4/ungraded_labs/C3_W4_Lab_1.ipynb
+https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C3/W4/ungraded_labs/C3_W4_Lab_2_irish_lyrics.ipynb
+https://www.tensorflow.org/text/tutorials/text_generation

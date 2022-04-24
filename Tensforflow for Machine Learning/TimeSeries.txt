@@ -1,0 +1,47 @@
+Time Series
+https://data.jakarta.go.id/
+******************************************************
+//Multivariate TIme Series
+    - in a grapsh and in a time there is a multi variable bvalue
+
+//Machine Learning applied to time Series
+    - 
+
+//Common patterns in time Series
+    - trend=a line
+    - seasonality= have a multi peak
+    - combination both trend and seasonality
+    - random
+    - lag
+    - non stationary
+
+https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C4/W1/ungraded_labs/C4_W1_Lab_1_time_series.ipynb
+
+ 
+https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C4/W2/ungraded_labs/C4_W2_Lab_1_features_and_labels.ipynb
+https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C4/W1/ungraded_labs/C4_W1_Lab_2_forecasting.ipynb
+https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C4/W2/ungraded_labs/C4_W2_Lab_2_single_layer_NN.ipynb
+
+
+//RNN
+    - because it may recur the value for the next state
+
+//Lambda layer
+    - 
+
+//Adjusting the learning rate dynamically
+    https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C4/W3/ungraded_labs/C4_W3_Lab_1_RNN.ipynb
+
+//LSTM  
+    https://www.coursera.org/lecture/nlp-sequence-models/long-short-term-memory-lstm-KXoay
+    https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C4/W3/ungraded_labs/C4_W3_Lab_2_LSTM.ipynb
+
+//convolution and LSTM
+    https://www.coursera.org/learn/convolutional-neural-networks
+    https://www.youtube.com/watch?reload=9&v=4qJaSmvhxi8
+
+https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C4/W4/ungraded_labs/C4_W4_Lab_1_LSTM.ipynb
+
+//Predict sunspot
+    - https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C4/W4/ungraded_labs/C4_W4_Lab_3_DNN_only.ipynb
+    - https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C4/W4/ungraded_labs/C4_W4_Lab_2_Sunspots.ipynb

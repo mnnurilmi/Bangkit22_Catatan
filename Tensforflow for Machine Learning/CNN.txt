@@ -1,0 +1,27 @@
+Andrew Ng
+*******************************************************
+https://github.com/https-deeplearning-ai/tensorflow-1-publi
+//Training cats vs dogs dataset
+    - 
+
+//Fixing thourgh cropping
+    -
+
+//Visualizing the effect of the convolutions
+    -
+
+//Looking ar accuracy and loss
+    - 
+
+//CNN: Augmentation
+    - this method is used for avoiding aoverfitting
+    https://colab.research.google.com/github/https-deeplearning-ai/tensorflow-1-public/blob/master/C2/W2/ungraded_labs/C2_W2_Lab_1_cats_v_dogs_augmentation.ipynb
+    https://colab.research.google.com/github/https-deeplearning-ai/tensorflow-1-public/blob/master/C2/W2/ungraded_labs/C2_W2_Lab_2_horses_v_humans_augmentation.ipynb
+
+//Transfer Learning
+    - get the large model and pick the esential weight into a new application
+    - Transfer learning will get faster in training
+    - Inception, 1.4 million images in 1000 labels
+
+//Multiclass Classification
+    - 

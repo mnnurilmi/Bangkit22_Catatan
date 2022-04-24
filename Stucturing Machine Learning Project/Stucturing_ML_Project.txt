@@ -1,0 +1,104 @@
+Stucturing ML Project
+by: Andrew Ng
+******************************************************
+//Why ML Strategy
+    - to faster manage ML Project
+
+//Orthogonalization
+    - 
+
+//Chain of assumption in ML
+    - Fit training set well on cost function (Human Level Performance)
+    - Fit dev set well on cost function
+    - Fit test set well on cost function
+    - Performs well in real world
+
+//Single Number Evaluation Metric
+    recall+precision-> F1 Score
+    instead using each value, using average is a best choose
+
+//Satisfying
+
+//Train/Dev/test
+    - chose a dev set and test set to reflect data you expect to get in the futture and consider important to do well on
+    - dev set and test set in the same distribution
+
+//SIze of dev set and test set
+    - old way: 70% 30%test
+    - current:
+        larger dataset
+        1 mil: 98%training, 1%dev,1%test
+    
+//When change dev/test set and matric
+
+//Comparing to Human Level Performance
+    - humans are quite good at alot of tasks. o long as ML is wore than the humans, you can:
+        get labeled data from humans
+        gain insight from manual error analysis
+        better analysis of bias/variance
+
+//Understanding Human level Performance
+    - human level performance is the performance of a human in a task
+    - human level error proxy for bayes error
+    - difference of human level and training error is "Avoidable error"
+    - difference of training error and dev error is "variance"
+
+//Surpasing Human Level Performance
+
+//Problems where ML significantly surpasses human level performance
+    - online advertising
+    - product recommendations
+    - logistics
+    - loan approvals
+
+//HUMAN is very good on natural tasks
+
+//Improving your Model Performance
+    - the two fundamentas assumption of supervised learning
+    1. You can fit the training set pretty well
+    2. The training set performance generelaize pretty well to the dev/test set
+    - Reducing avoidable bias and variance
+    1.for reduce avoidable bias: train bigger model, train longer optimization, NN architecture hyperparameter search
+    2. for reduce variance bias: more data to get more generalization, regularization, NN architecture hyperparameter search
+
+https://community.deeplearning.ai/t/dls-course-3-lecture-notes/11868
+
+//Carrying out error analysis
+    - 
+
+//Cleaning up incorrectly labeled data
+    - 
+
+//Training and TEsting on Different Distributoins
+    - fi there were a small dataset to be tested,
+        the first option is shuffle this dataset to training dataset
+        and split all these data
+    
+//Bias and Variance with Missmatched Data Distributions
+    - variance: the difference between the training and training-dev set
+    - data missmatched problem: the difference between the training and dev set
+
+//Addressing data missmatched
+    - carrying manual error analysis to try to nundesrstand difference between training and dev/test sets
+    - Make training data more similar/collect more data to dev/test sets
+
+//Transfer learning
+    - 
+
+//Multitask learning
+    - 
+
+//End-to-end learning
+    - 
+
+//Whether to use end-to-end Deep learning
+    - pros:
+        - let the data speak
+        - Less hand-designing of components needed
+    - cons:
+        - may need large amount of data
+        - excludes potentially useful hand-designed components
+
+//Applying end-to-end deeplearning
+    - key question: Do you have sufficient data to learn a function of the complexity needed to map x to  y?
+

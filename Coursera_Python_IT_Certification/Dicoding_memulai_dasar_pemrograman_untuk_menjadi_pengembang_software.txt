@@ -1,0 +1,137 @@
+Memulai Pemograman untuk Menjadi Pengembang Software
+17-2-2022
+********************************************************
+//Proses Pengembangan Software/SDLC(Software Development Life Cycle)
+    1.Planning
+    2. Analisis
+    3. Desain
+    4. Development
+    5. Testing
+    6. Deployment
+    7. Maintanance
+
+//URC(User Requirement Spesification)
+    -tidak boleh menggunakan jargon teknis
+    -tidak boleh menggunakan enskripsi
+    -disarankan menggunakan tabel
+
+//Requirement Gathering: proses mendapatkan informasi dari
+    stakeholder, seperti manajer, developer, customer, dan user
+
+//Teknik requirment gathering: interview, user stories, 
+    straw man documentation, dan prototyping
+    -Interview: proses tanya jawab terhadap narasumber
+    -user stories: menuliskan kebutuhan user seduai keinginan
+    -straw man documents: storyboard, flowchart, mockup
+    -prototyping: proses pembuatan prototipe fungsionalitas utama. 
+        namun prototuping mahal
+
+//URS proses login dan logout
+    -teknik interview
+    -contoh: apa yang dilakukan pengguna saat login dan logout
+        -di halaman login pengguna bisa melakukan proses login
+        -ketika melakukan proses logout, user otomatis dipindahkan ke halaman login
+
+//Spesifikasi teknis
+    -adalah dokumen yang menyimpan informsi detail dari fungsionalitas
+        dari sistem/aplikasi, servis, dan limitasinya.
+    -prinsip spesifiksi teknis:
+        -jelas
+        -tidak ambigu
+        -mudah dipahami
+        -lengkap
+        -konsisten
+    -kebutuhan dari sisi pandangannya:
+        -Developer, diperlukan ada kedetailan dan kejealsan Spesifikasi
+        -Client, berharap mudah dimengerti
+        -kontrak/legal,
+            acceptence criteria, adalah klausul kriteria yang berisi apakah suatu fitur
+            sudah berjalan dengan baik
+
+    -Contigensy Plan, adalah suatu tindakan alternatif yang dipersiapkan ketika
+        tindakan utama yang direncanakan untuk melakukan sesuatu gagal
+        atau terhambat oleh berbagai faktor
+
+//Studi Kasus Menganaisis Spesifikasi teknis
+    -Proses login
+        -untuk melakukannya, pengguna mengisi kolom email dan pass dulu
+        -kolom email harus memiliki kesesuaian format email
+        -kolom pass harus menutupi nilai yang dimasukkan pengugna
+        -ketika pass dan email tidak cocok maka harus muncul notifikasi email dan pass salah dan perbaiki dulu
+    -Proseslogout
+        -tombol logout terlihat jelas
+        -ketika ditekan maka halaman berpindah ke halaman login
+
+//Tips Sikap Kerja dalam Meneliti, Menganalisis, dan Evaluasi Kebutuhan Aplikasi
+    -komunikasi yang baik dengan pengguna
+    -lakukan riset sebelum berinteraksi
+    -mencatat rapu daftar kebutuhan aplikasi sesuai pengguna
+
+//Pengantar Perencanaan Modifikasi APlikasi
+
+//Spesifikasi Kebuthuhan Perangkat Lunak dan Stuktur Penulisannya
+    -SKPL(Spesifikasi Kebutuhan PErangkkat Lunak)
+        -adalah sebuah dokumen yang dibuat sebelum mengembangkan sebuah apikasi perangkat Lunak
+        -keuntungan:
+            -desainar ux/ui mendapat gambaran
+            -tim penguji mendapatkan panduan membuat studi Kasus
+            -end-user mendapatkan gambaran umum
+            -investor mendapatkan gambaran umum fitur
+        -kebutuhan mencakup eemen:
+            -tujuan aplikasi
+            -deskripsi umum
+            -kebutuhan fungsional dan bagaimana aplikasi berinterasksi dengan hardware dan software lainnya
+            0kebutuhan fungsional dan non fungsiona
+            -performa aplikasi dalam proses produksi
+            -batasan sistem aplikasi yang dibuat
+        -Stuktur Penulisan SKPL
+            -Pengantar
+            -Glosarium
+            -KEbutuhan pengguna
+            -Sistem Arsitektur
+            -Spesifikasi Kebutuhan Sistem
+            -Model Sistem
+            -Renacna Pengembangan Sistem
+            -Apendiks
+
+//Studi Kasus Pembuatan Dokumen SKPL
+    -MEnuliskan kerangka dokumen SKPL
+    -lengkapi sisanya
+    -rapihkan
+
+//Proses Komuikasi APlikasi pada Komputer
+    -informasi diproses oleh CPU
+    -konversi: compile & interpret
+
+//Penyelesaian Masalah Menggunakan Cara Berpikir Komputasional
+    -dekomposisi(pemecahan masalah besar jadi kecil)
+    -pattern recognition(pelajari pola setiap permasalahan)
+    -abstraction(mengabstraksikan permasalahan)
+    -algorithm(susun langkah dengan algoritma)
+    -evaluation(mengevaluasi soluasi yang didapat)
+
+//Studi Kasus Penyelesaian Masalah dari Aplikasi
+
+//Pengenalan flowchart
+    -bentuk penggambaran dengan visual terkait algoritma
+    -fungsi: 
+        -membantu menemukan dan menganalisis bug
+        -berperan sebagai cetak biru
+        -meningkatkan efisiensi dalam Maintanance
+        -memudahkan kounikasi logika antar sesama prorgammer
+
+//Studi Kasus flowchart
+
+//Tips Sikap Kerja dalam Kolaborasi Perencanaan Aplikasi dengan Tim
+    -Efektifkan komunikasi
+    -Membangun Kepercayaan dalam Tim
+    -Berikan Semangat
+    -Utamakan Diskusi
+    -Hindari Slow Response
+    -Menentukan PRioritas
+
+//Pengenalan Konsep Daar Pemograman
+
+//Pengenalan Sintaksis dan Case Sensitive
+
+

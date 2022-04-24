@@ -1,0 +1,66 @@
+Crash Course on Python
+by Google
+18 February 2022
+******************************************************
+//Specialization intro
+    -system administator
+    -Cloud solutions
+    -DevOps Specialist
+    -site reliability engineer
+    -data analyst
+
+//The Beginning of Your Programming Journey
+    -programming language, scripting, realte to intro
+
+//What is Programming
+    -semantics: actual meaning of statement/effect of the insturctions
+    -Syntax: rules of statement
+    knowing the syntax and semantic of a programming language
+        allows us to tell the computer what we want it to do
+
+//What is automation
+    -automation is the process of replacing a manual step 
+        with one that happens automatically
+
+//What is Python
+    -benefits:
+        -similar to human language
+        -easy to read and write
+        -we can guess what the code does
+    -semantic problem: if syntax is correct and than the script 
+        has unexpected behavior or output
+
+//Why python is relevant to it
+    -python makes it easy to express the fundamental concepts of programming
+    -python easy to understand and easy to maintain
+
+//Hallo World
+    -function are pieces of code that perform a unit of work
+    -Keywords are reserved words that are used to construct insturctions
+
+//Getting information from the user
+
+//Python can be your Calculator
+
+//First Step Wrap up
+
+//Basic Python Syntax Introduction
+    -Data types
+        -String
+    -Variables
+        -are names that we give to certain values
+    -Implicit conversion is where the interpreter hepls us out and automatically converts one data type into another
+    -explicit conversion is where we manually convert from one data to another data type by calling relevant function
+
+//Defining function
+    - a block of program that can be called many times by other insturction
+    -parameters
+    -returning values
+
+//Principles of Code Reuse
+
+//Comparison
+
+//Loops
+    -for, while, 
+//

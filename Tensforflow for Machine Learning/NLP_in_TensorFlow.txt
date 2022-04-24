@@ -1,0 +1,54 @@
+Natural Language Processing in tensorflow
+********************************************************
+https://github.com/https-deeplearning-ai/tensorflow-1-public
+
+//Word based encodings
+    - I love my dogs
+        1-2-3-4
+    - I love my cats
+        1-2-3-5
+
+//Using APIs
+    - tensorflow.keras.preprocessing.text import Tokenizer
+    https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C3/W1/ungraded_labs/C3_W1_Lab_1_tokenize_basic.ipynb
+
+//Text to Sequence
+    - 
+
+//Padding
+    https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C3/W1/ungraded_labs/C3_W1_Lab_2_sequences_basic.ipynb
+    - pad_sequences(sequences, padding="post",trauncating="post")
+
+//Sarcasm, really?
+    https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C3/W1/ungraded_labs/C3_W1_Lab_3_sarcasm.ipynb
+
+//Working with the Tokenizer
+    - 
+
+
+//Word Embedding
+    https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C3/W2/ungraded_labs/C3_W2_Lab_1_imdb.ipynb
+
+//loss
+    - confidence of a prediction
+    https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C3/W2/ungraded_labs/C3_W2_Lab_2_sarcasm_classifier.ipynb
+
+    https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C3/W2/ungraded_labs/C3_W2_Lab_3_imdb_subwords.ipynb
+//RNN
+    https://www.coursera.org/lecture/nlp-sequence-models/deep-rnns-ehs0S
+
+
+//LSTM
+    https://www.coursera.org/lecture/nlp-sequence-models/long-short-term-memory-lstm-KXoay
+    return sequences==True
+        berarti ensure bahwa output dari LSTM sesuai dengan input setelahnya
+
+//Accuracy and Loss
+    - more layer more smoother in graphs
+
+//GRU(Gated recurrent units)
+
+//Using CNN
+    https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C3/W3/ungraded_labs/C3_W3_Lab_3_Conv1D.ipynb
+    https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C3/W3/ungraded_labs/C3_W3_Lab_4_imdb_reviews_with_GRU_LSTM_Conv1D.ipynb
+

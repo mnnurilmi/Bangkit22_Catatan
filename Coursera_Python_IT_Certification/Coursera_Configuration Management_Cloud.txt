@@ -1,0 +1,144 @@
+Configuration and Management _cloud
+*****************************************************
+//Automating with condiguration Management
+
+//What is Scale
+    - being able to scale what we do means that we can 
+        keep achieving larger impacts with the samw amount
+        of effort
+    - Automation
+        - An essential tool for keeping up with the infrastucture 
+            needs of a growing business
+
+//What is Configuration Management
+    - unmanaged system can be a managed system by 
+        Configuration Management system
+    - examples: Puppet, Chef, Ansible, CFEngine
+
+//What is infrastucture as Code?
+    - consistent, versioned, reliable, repeatable
+
+//What is Puppet?
+    - is the current industry standard for managing
+    the configuration of computers in a fleet of machines
+
+//Puppet Resources
+
+//Puppet Classes
+
+//What are domain-spesific languages?
+    - is a programming language that's more limited in scope
+    - Pupper Facts
+        -is a variables that represent the characteristic
+        of the system
+
+//The Diving Principles of Confuguration Management
+    - An idempotent action can be performed over and over again 
+    without changing the system after the first time 
+    the action was performed with no unintended side 
+    effectes
+    - Test and repair
+
+//Deploying Puppet
+    - packages, files, and services
+
+//Applying Rules Locally
+    - Catalog
+        -is the list of rules that are generated for one specific 
+        computer once the server has evaluated all variables, conditionals,
+         and functions
+
+//Managing Resource Relationships
+
+//Puppet Nodes
+    -  node is any system where we can run a puppet agent
+
+//Puppet Certificate Insfrastucture
+    - SSL -> https
+    - Certificate Authority
+
+//Setting up Puppet Clients and Servers
+
+//Modifying and Testing Manifests
+    - Puppet parser validate
+    - R-Spec test
+
+//Safely Rolling out Changes and Validating Them
+    - Production
+        -is a part of the infrastucture where a services
+        is executed and served to its users
+    - --noop parameter
+     allows us to w=review the changes that puppet would do on the system 
+     without actually applying them
+
+//Deploying Puppet
+
+//Automation in Cloudd
+
+//Cloud services
+    - SaaS(Software as a Service)
+     when a cloud provider delivers an entire application or program
+     to the customer. Gmail,365, etc.
+    - PaaS(Platform as a Service)
+     when a cloud provider offers a oreconfigured platform to the customer
+    ex: SQL, Amazon, Google, etc
+    - IaaS(Infrastucture as a Service)
+     When a cloud provider supplies only the bare-bones computing experience
+    ex: Qwiklabs, Virtual Machines
+
+//Scaling in The Cloud
+    - Capacity: is a how much cloud can deliver
+    - QPS(Query per Second)
+    Scaling 
+        -horizontally
+            add more servers to add capasity
+        -Vertically
+            biggering capasity, memory or RAM
+    - Automatic Scaling
+    the service offered by the cloud provider will use metrics to automatically
+    increase or decrease the capaxity of the system
+    - Manual Scaling
+    changes are controlled by humans instead of software
+
+//Evaluating The Cloud
+    - We should always use reasonable judgement to protect the machines that we deploy, 
+    wheter that's on physical servers running on-premise or on virtual machines in the cloud
+
+//Migrating to The Cloud
+    - IaaS -> Lift and Shift strategy
+    - PaaS -> spesific infrastucture and avoid day-to-day management
+    - clouds:
+        - public clouds: by third party
+        - private clouds: company owns the services
+        - hybrid clouds :mixture  public and private
+        - multi-clouds: micture public and private across providers
+
+//Spinnig up VMs in the Cloud
+    - Machine Type
+    - Boot Disk
+    - Consider the consts of VM
+    - Templating
+     is  a process of capturing all of the system configuration to let us create VMs in a repeateble way
+    - Disk image
+     is a snppshot of a VMs disk at given point in time
+
+//Creating a New VM Using the GCP Web UI
+    - Google Cloud Platform trial
+
+//Customizing VMs in GCP
+    - reference image
+
+//Templating a Customized VM
+    - gcloud
+    - compute-instance
+
+//Cloud Scale Deployment
+    - load balancer
+        ensures that each node receives a balanced number of requests
+    - Round robin
+    - Autoscaling
+     alloes the service to increase or reduce capacity as needed, while the service owner only pays for the cost 
+     of the machines that are in use at any given time
+    - Varnish, Nginx
+
+//Cloud Orchestration

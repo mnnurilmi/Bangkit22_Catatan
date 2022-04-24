@@ -1,0 +1,39 @@
+Browser based Models with TensorFlow.js
+https://community.deeplearning.ai/c/tf2/tf2-course-1/141
+******************************************************
+//TF js
+//Irish Data on TF.js
+    - 
+
+//One hot encoding
+    - 
+
+//Irish Classifier in Code
+    -
+
+//MNIST data classifier on TF js
+    - 
+
+//Using sprite sheet
+    - 
+
+https://github.com/tensorflow/tfjs-models
+https://github.com/tensorflow/tfjs-models/tree/master/toxicity
+
+//MobileNet
+    - https://github.com/https-deeplearning-ai/tensorflow-2-public/blob/main/C1_Browser-based-TF-JS/Misc/labels.txt
+
+//
+
+
+
+//Latihan
+//Android
+https://www.tensorflow.org/lite/examples/
+https://colab.research.google.com/github/https-deeplearning-ai/tensorflow-2-public/blob/adding_C2/C2/W2/assignment_optional/C2_W2_Assignment_Solution.ipynb
+https://colab.research.google.com/github/https-deeplearning-ai/tensorflow-2-public/blob/adding_C2/C2/W2/assignment_optional/C2_W2_Assignment.ipynb
+
+//Raspi
+https://github.com/tensorflow/build/tree/master/raspberry_pi_builds
+https://www.tensorflow.org/install/pip
+https://www.tensorflow.org/lite/guide/python

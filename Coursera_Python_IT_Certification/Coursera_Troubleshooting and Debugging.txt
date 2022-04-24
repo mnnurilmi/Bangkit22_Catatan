@@ -1,0 +1,42 @@
+Troubleshooting and Debugging
+*****************************************************
+//Troubleshooting concepts
+    -tackling problems
+    -binary search for search the problem
+
+//What is Debugging 
+    -Troubleshooting
+        -The process of identifying, analyzing, and solving problem
+        -On the application
+    -Debugging
+        -The process of identifying, analyzing, and removing bugs in a system
+        -on the code
+
+//Problem Solving Steps
+    1. Getting information
+    2. Finding the root cause
+    3. Performing the necessary remediation
+
+//Silently Crashing application
+    -system calls
+        -Calls that the programs running on our computer make to the running 
+        kernel
+
+//It doesn't work
+
+//Creating a reproduction case
+    -is a way to verify if the problem is present or not
+
+//Finding the rootcause
+    -coming out to our hipothesis
+    -testing our hipothesis
+    -iotop
+    -iostat, vmstat(virtual memmory)
+    iftop(current network traffic)
+    -rsync (used for backuping data)
+
+//Dealing with intermittent issues
+    -Heisenburgs(observer effect)
+        -observing a phenomenon alters the pehnomenon
+    
+//Intermittently Failing script

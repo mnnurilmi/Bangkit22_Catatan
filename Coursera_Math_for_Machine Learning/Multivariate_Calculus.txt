@@ -1,0 +1,51 @@
+Multivariate Calculus
+*****************************************************
+//Function
+    - projection input to some output
+
+//Rise over Run
+
+//Definition of derivative
+    - sum rule
+
+//Special problems
+    hiperbolic function
+    sin function
+
+//Product rule
+    - 
+
+//Chain rule
+    - 
+
+//Taming the beast
+
+//Multivariate
+
+//Variable, constant, and context
+    -
+
+//Differentiate with respect to anything
+    - 
+
+//Jacobian
+    - 
+
+//The sandpit
+    - global minima, global maxima
+    - local minima, local maxima
+
+//The hessian
+    - extension of Jacobian
+    - derivative of jacobian
+
+//Reality is hard
+    - 
+
+//Multivariate chain rule
+    - 
+
+//Neural networks
+
+//Gradient descent
+    - 

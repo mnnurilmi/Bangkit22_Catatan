@@ -1,0 +1,10 @@
+What is Testing?
+******************************************************
+//type
+    -automated testing
+    -unit Testing
+    -integration testing
+    -test-driven development
+
+//Manual testing and automated testing
+    -

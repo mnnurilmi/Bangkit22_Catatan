@@ -1,0 +1,14 @@
+Standard Stream
+****************************************************
+//STDIN
+
+//STDOUT
+
+//STDERR
+
+//Command Line Argument
+    -subprocess
+
+//Obtaining output of a system
+    -capture output
+    

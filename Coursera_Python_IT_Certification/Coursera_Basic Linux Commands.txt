@@ -1,0 +1,27 @@
+Basic Linux Commands
+****************************************************
+//Creating new dir
+    mkdir <new dir>
+
+//To dir
+    cd <dir name>
+
+//Copy
+    cp <want to copy> <to where>
+
+//
+    touch <file name>
+
+//List file
+    ls -l
+    ls -la
+
+//rename
+    mc <file name> <new file name>
+
+//delete
+    rm <file name>
+    rm * (remove all file)
+
+//delete dir
+    rmdir <dir name>
