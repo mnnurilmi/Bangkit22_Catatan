@@ -1,0 +1,26 @@
+Serving
+******************************************************
+//https://www.tensorflow.org/tfx/serving/setup
+
+https://github.com/https-deeplearning-ai/tensorflow-2-public/blob/main/C4_Advanced-deployment/W1/ungraded_labs/C4_W1_Lab_1_tfserving_hello_world.ipynb
+
+https://www.tensorflow.org/tfx/tutorials/serving/rest_simple
+
+https://tfhub.dev/s?subtype=publisher
+
+https://github.com/https-deeplearning-ai/tensorflow-2-public/blob/main/C4_Advanced-deployment/W2/ungraded_labs/C4_W2_Lab_1_tfhub_basic_examples.ipynb
+
+//Text Class
+https://github.com/https-deeplearning-ai/tensorflow-2-public/blob/main/C4_Advanced-deployment/W2/ungraded_labs/C4_W2_Lab_2_text_classification.ipynb
+
+//image
+https://github.com/https-deeplearning-ai/tensorflow-2-public/blob/main/C4_Advanced-deployment/W2/ungraded_labs/C4_W2_Lab_3_transfer_learning.ipynb
+
+//TensorBoard
+    - tensorflow.dev
+    https://tensorboard.dev/
+//https://colab.research.google.com/github/tensorflow/tensorboard/blob/master/docs/image_summaries.ipynb
+
+
+//Federated Model
+    - 
